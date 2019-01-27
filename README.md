@@ -1,6 +1,9 @@
 # cs5100sp18
 CS5100 Foundation of AI assignment
 
+## Goal
+Run and compare all search strategies under a home map, and print out all solutions if found
+
 ## set up
 Install packages: `python3 -m pip install bisect tabulate`
 
